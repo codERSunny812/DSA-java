@@ -13,6 +13,7 @@ public class RecursionInJava{
    Scanner sc = new Scanner(System.in);
    System.out.println(" enter the number : ");
    int num = sc.nextInt();
+   sc.close();
    int ans = factorial(num);
    System.out.println(" the factorial of the number is :  " + ans);
     }

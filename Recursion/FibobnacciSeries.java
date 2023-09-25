@@ -19,6 +19,7 @@ public class FibobnacciSeries {
         Scanner sc = new Scanner (System.in);
         System.out.println("enter the number upto which you want to print the fibonacci series");
         int number = sc.nextInt();
+        sc.close();
        int num =  printFiboo(number);
         System.out.println(" the entered number term in the series is " + num);
     }
