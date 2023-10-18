@@ -8,6 +8,7 @@ public class CheckTheStringPalindrome {
             return false; // If characters don't match, it's not a palindrome.
         }
 
+        
         return checkPalindrome(s, start + 1, end - 1); // Recurse for the inner substring.
     }
 
