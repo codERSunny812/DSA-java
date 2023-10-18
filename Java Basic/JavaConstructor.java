@@ -38,7 +38,7 @@ public class JavaConstructor {
         first.displayInfo();
 
         System.out.println("\nsecond:");
-       System.out.println("seconf :" + geek1.name
+       System.out.println("seconf :" + geek1.name 
                            + " and GeekId :" + geek1.age);
 
     }
