@@ -10,19 +10,20 @@ class Node {
     }
 
 }
-
+// creation  of the linked list 
 class LinkedListClass{
-    Node HEAD;
+    public Node HEAD;
 
    public  LinkedListClass(){
         HEAD = null; //constructor created
+        //initially the head is null coz we are creating the linked list 
     }
 
     // now add element in the linked list
     public void add(int data) {
         Node newNode = new Node(data);
 
-        // now check that the head is has something or not
+        // now check that the head is empty  or not
         if (HEAD == null) {
             HEAD = newNode;
             return;

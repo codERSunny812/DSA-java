@@ -12,6 +12,7 @@ class Node{
 }
 
 public class LinkedListSecondWay {
+    // creation of the linked list 
     public static void  main(String []args){
     Node newNode1 = new Node(100);
     Node newNode2 = new Node(200);
