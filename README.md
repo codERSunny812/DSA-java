@@ -55,7 +55,7 @@ DSA-Learning-Repo/
 ---
 
 ## Resources
-- [Striver's A-Z DSA Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- [Striver's A-Z DSA Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [LeetCode](https://leetcode.com/)
 - [InterviewBit](https://www.interviewbit.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
