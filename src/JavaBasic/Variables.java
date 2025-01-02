@@ -8,6 +8,9 @@ public class Variables {
         System.out.println("variables in java");
 
         // Static variable
+        //it can be accessed anywhere in the program with out creating the instance
+//        of the class and a change at one place in the varible is reflected in every part
+//                of the code where the variable is  used
         System.out.println("Static variable z: " + z);
 
         // Call a static method
