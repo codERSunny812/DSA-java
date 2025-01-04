@@ -1,4 +1,5 @@
 package Oops;
+import  static java.lang.Math.*;
 
 //for static variable
 class Counter{
@@ -83,7 +84,7 @@ public class StaticKeyWord {
     public static void main(String[] args) {
         System.out.println("all about static keyword");
 
-        System.out.println("static variable in java:");
+        System.out.println("1. static variable in java:");
         Counter c1 = new Counter();
         System.out.println(Counter.count); //can be call only using the class name
         c1.display();
@@ -92,7 +93,7 @@ public class StaticKeyWord {
         Counter c3 = new Counter();
         c3.display();
 
-        System.out.println("static method in java:");
+        System.out.println("2. static method in java:");
         // Calling the static method without creating the object
         StaticMethodExplaination.printNum();
 
@@ -103,15 +104,29 @@ public class StaticKeyWord {
         int result = StaticMethodExplaination.sumOfNum(91,12);
         System.out.println(result);
 
-        System.out.println("static block in java: ");
+        System.out.println("3. static block in java: ");
 
         System.out.println(StaticBlock.a);
 
 
-        System.out.println("static classes in java:");
+        System.out.println("4. static classes in java:");
 
         Outer.Inner nestedObject = new Outer.Inner();
         nestedObject.display();
+
+        //static method called without creating the instance:
+        Outer.Inner.dis();
+
+        System.out.println("5. Static import in java");
+
+//        The static keyword can be used in import statements to directly access static members
+//                of a class without using the class name.
+
+        double number = sqrt(4);
+        System.out.println(number);
+
+
+
 
 
 
