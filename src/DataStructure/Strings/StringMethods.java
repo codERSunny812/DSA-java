@@ -6,7 +6,7 @@ public class StringMethods {
     public static void main(String[] args) {
         System.out.println("String methods");
 
-        String str = "  Java Programming is Fun  ";
+        String str = "Java Programming is Fun  ";
 
         System.out.println("Original: " + str);
         System.out.println("Trimmed: " + str.trim());
@@ -17,11 +17,13 @@ public class StringMethods {
         System.out.println("Contains 'Fun': " + str.contains("Fun"));
         System.out.println("trimmed:"+str.strip());
 
+        System.out.println("split method in java");
 
         String str2 = "apple,banana,cherry";
 
         // Splitting
         String[] fruits = str2.split(",");
+        System.out.println(fruits.length);
         for (String fruit : fruits) {
             System.out.println(fruit);
         }

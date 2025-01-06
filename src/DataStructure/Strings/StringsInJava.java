@@ -25,7 +25,10 @@ public class StringsInJava {
 
 // Strings created using literals are stored in a special memory area called the String Pool.
 // Strings with the same content share the same memory location in the pool, reducing memory usage.
-
+          String s = " hey hello how are you   ";
+        System.out.println(s);
+        s=s.trim();
+        System.out.println(s);
 
 
     }
