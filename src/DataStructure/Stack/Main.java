@@ -4,38 +4,32 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("stack implementation in java");
 
-        System.out.println("using the LL");
+        System.out.println("1. using java");
 
-        StackUsingLL list = new StackUsingLL();
-//        System.out.println(list);
-        // Adding elements to the stack
-        list.addElement(10);
-        list.addElement(20);
-        list.addElement(30);
-        list.display(); // Output: Stack elements: 30 20 10
+        StackUsingArray list = new StackUsingArray(8);
+
+        //addition in stack
+        list.add(12);
+        list.add(14);
+        list.add(16);
+        list.add(18);
+        list.add(20);
+        list.add(22);
+        list.add(24);
+        list.add(26);
+
+        //top element in the stack
+        System.out.println("the top element in the stack is:"+list.peek());
+
+        //trying to add one more  element in the stack
+        list.add(28); //getting an erorr of stack is full
+
+        //removing element from the array
 
 
-        // Peek at the top element
-        System.out.println("Top element: " + list.peek()); // Output: Top element: 30
 
-        // Remove an element
-        System.out.println("Popped element: " + list.removeElement()); // Output: Popped element: 30
 
-        // Display the stack
-        list.display(); // Output: Stack elements: 20 10
 
-        // Show size
-        System.out.println("Size of stack: " + list.showSize()); // Output: Size of stack: 2
 
-        // Check if the stack is empty
-        System.out.println("Is stack empty? " + list.isEmpty()); // Output: Is stack empty? false
-
-        // Remove all elements
-        list.removeElement();
-        list.removeElement();
-        list.display(); // Output: Stack is empty.
-
-        // Try to peek when stack is empty
-        list.peek(); // Output: The stack is empty.
     }
 }
