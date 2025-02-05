@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14161810-9f42-4dbe-be19-7a074705122d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Arrays/IsSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/ArmStrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/BinartToDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/ExtractionOfDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/NumberIsEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/OneComplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/PrintDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/ReverseANumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/UniqueElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicMath/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramwwork/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Array/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Hashing/HashMapInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Hashing/HashSetInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LL/CircularLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LL/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LL/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Stack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Stack/StackUsingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Stack/StackUsingLL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/CountOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/RotationOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/SB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Strings/StringsInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/LoopsInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/TakingInputInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/TypeCast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/conditionalStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/FactorialOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/FindAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/InfiniteLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Method1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Notes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/SumOfOddNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/SumOfTwoNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction/AbstractionInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/AcessControl/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/AcessControl/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/ClassBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/ConstructorExplain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation/AboutEncapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Generics/ArrayListWithOutGeneric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Generics/CustomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Generics/GenericClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/HierarichalInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/MultiLevelInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Organism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/SingleLevelnheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Interface/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Interface/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Interface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/LambdaExpression/LambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Objects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Objects/ObjectInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/OopBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Polymorphism/AboutPolyMorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Polymorphism/MoreAboutPolymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/StaticKeyWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Patter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Pattern3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Pattern4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternInJava/Pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Arrays/FindIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/EasyPrblm/Nto1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/EasyPrblm/OneToN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/EasyPrblm/ReverseANumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/EasyPrblm/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/EasyPrblm/SumOfN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/FactorialOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/FibonaaciNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/RecursionBasic.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "codERSunny812"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/codERSunny812/DSA-java.git",
+    "accountId": "e03cbbaf-d452-4a97-b223-c31433ee1695"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2sbA1y3CJ7vqIwMAYUsUUxzeugy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IsSorted.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14161810-9f42-4dbe-be19-7a074705122d" name="Changes" comment="" />
+      <created>1738713690020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738713690020</updated>
+    </task>
+    <servers />
+  </component>
+</project>
