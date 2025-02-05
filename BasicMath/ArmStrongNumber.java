@@ -6,6 +6,7 @@ public class ArmStrongNumber {
         int realNumber = number;   // Store the original number
         int sum = 0;
 
+
         // Calculate the number of digits by converting it into string
         int digits = String.valueOf(number).length();
 
